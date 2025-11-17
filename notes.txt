@@ -1,0 +1,5 @@
+Why we need a schema?
+1. It's a pain to get all the values from the body
+2. The client can send whatever data they want
+3. the data isn't getting validated
+4. we ultimately want to force the client to send the data in a schema that we expect
